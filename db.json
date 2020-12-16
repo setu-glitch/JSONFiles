@@ -23,30 +23,5 @@
     "GameName" : "Borderlands 3",
     "Publisher" : "2K Games",
     "Year" : "2019"
-  },
-  "Game 5" : {
-    "GameName" : "Half-Life",
-    "Publisher" : "Valve",
-    "Year" : "1998"
-  },
-  "Game 6" : {
-    "GameName" : "Apex Legends",
-    "Publisher" : "Electronic Arts",
-    "Year" : "2019"
-  },
-  "Game 7" : {
-    "GameName" : "Counter Strike",
-    "Publisher" : "Valve",
-    "Year" : "1999"
-  },
-  "Game 8" : {
-    "GameName" : "Doom Eternal",
-    "Publisher" : "Bethesda Softworks",
-    "Year" : "2020"
-  },
-  "Game 9" : {
-    "GameName" : "For Honor",
-    "Publisher" : "Ubisoft",
-    "Year" : "2017"
   }
 }
