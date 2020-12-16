@@ -13,15 +13,5 @@
     "GameName" : "Overwatch",
     "Publisher" : "Blizzard Entertainment",
     "Year" : "2016"
-  },
-  "Game 3" : {
-    "GameName" : "DOTA 2",
-    "Publisher" : "Valve",
-    "Year" : "2013"
-  },
-  "Game 4" : {
-    "GameName" : "Borderlands 3",
-    "Publisher" : "2K Games",
-    "Year" : "2019"
   }
 }
