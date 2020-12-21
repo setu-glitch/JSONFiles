@@ -1,0 +1,52 @@
+[
+    {
+        "Songs":[
+                {
+                "title":"MAROONED",
+                "artist":"PINK FLOYD",
+                "url":"https://images-na.ssl-images-amazon.com/images/I/81aTawcGdmL._SL1500_.jpg"
+            },
+                {
+                "title":"AFTERLIFE",
+                "artist":"AVENGED SEVENFOLD",
+                "url":"https://townsquare.media/site/366/files/2016/10/91A-P5-zn7L._SL1500_.jpg?w=980&q=75"
+            },
+                {
+                "title":"TOBU MON",
+                "artist":"MEGHDOL",
+                "url":"https://i.kfs.io/album/global/66901759,0v1/fit/500x500.jpg" 
+                },
+                {
+                "title":"LAZARUS",
+                "artist":"PORCUPINE TREE",
+                "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Porcupine_Tree_-_Deadwing_%28album_cover%29.jpg/220px-Porcupine_Tree_-_Deadwing_%28album_cover%29.jpg"
+            },
+                {
+                "title":"ASHES OF EDEN",
+                "artist":"BREAKING BENJAMIN",
+                "url":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/562cb911-46c6-4e29-b3ad-7b9c2431c5f3/d5rlt4w-95455453-4cb9-4319-ad09-e16689307ca7.jpg/v1/fill/w_845,h_655,q_75,strp/breaking_benjamin_phobia_by_monsieurjack95_d5rlt4w-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD02NTUiLCJwYXRoIjoiXC9mXC81NjJjYjkxMS00NmM2LTRlMjktYjNhZC03YjljMjQzMWM1ZjNcL2Q1cmx0NHctOTU0NTU0NTMtNGNiOS00MzE5LWFkMDktZTE2Njg5MzA3Y2E3LmpwZyIsIndpZHRoIjoiPD04NDUifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.PHJwz4p0I7mT5ERiGzN7tQR6sBV60OQAXkRVrTz4lq4"
+            },
+                {
+                "title":"VIVA LA VIDA",
+                "artist":"COLDPLAY",
+                "url":"https://upload.wikimedia.org/wikipedia/en/3/3d/Coldplay_-_A_Head_Full_of_Dreams.png"
+            },
+                {
+                "title":"SPARKLE",
+                "artist":"YOUR NAME",
+                "url":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b482258e-6067-41d9-b7d5-e4d19a2fba67/db1mwrt-b1b22800-1495-43b7-a6fe-7db528078e7e.jpg/v1/fill/w_600,h_600,q_75,strp/your_name__film_album__radwimps__custom_cover_by_jagerszaam_db1mwrt-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvYjQ4MjI1OGUtNjA2Ny00MWQ5LWI3ZDUtZTRkMTlhMmZiYTY3XC9kYjFtd3J0LWIxYjIyODAwLTE0OTUtNDNiNy1hNmZlLTdkYjUyODA3OGU3ZS5qcGciLCJoZWlnaHQiOiI8PTYwMCIsIndpZHRoIjoiPD02MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uud2F0ZXJtYXJrIl0sIndtayI6eyJwYXRoIjoiXC93bVwvYjQ4MjI1OGUtNjA2Ny00MWQ5LWI3ZDUtZTRkMTlhMmZiYTY3XC9qYWdlcnN6YWFtLTQucG5nIiwib3BhY2l0eSI6OTUsInByb3BvcnRpb25zIjowLjQ1LCJncmF2aXR5IjoiY2VudGVyIn19.sk5dYdhX3FKM0NDNgM90UUXnR9zZEStMsMs5P__BBG4"
+            },
+                {
+                "title":"RISE UP",
+                "artist":"IMAGINE DRAGONS",
+                "url":"https://www.udiscovermusic.com/wp-content/uploads/2019/06/Imagine-Dragons-Evolve-album-cover-820.jpg"
+            },
+                {
+                "title":"THE PLAN",
+                "artist":"TENET",
+                "url":"https://consequenceofsound.net/wp-content/uploads/2020/09/Tenet.jpg?quality=80"
+            }
+            
+        ]
+    }
+]
